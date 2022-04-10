@@ -1,2 +1,3 @@
 # fake-product-api-json-server
-# json-server-dep-test
+
+Heroku Config Issue fixed on json-server-deploy repo
